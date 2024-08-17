@@ -1,4 +1,4 @@
-![alt text](https://github.com/khakiiman/portfolio/blob/main/src/assets/IntroPic.png?raw=true)
+
 
 # New Portfolio Website
 
@@ -92,4 +92,4 @@ Please make sure to update tests as appropriate.
 The final step is to see this awesome frontend developer portfolio!
 Check out link below:
 
-https://imankhaki.netlify.app
+
