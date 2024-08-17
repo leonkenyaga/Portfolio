@@ -35,8 +35,8 @@ const Home = () => {
           </p>
 
           <h1 className='uppercase tracking-[0.05em] text-h2Size sm:text-[70px] font-[700] flex sm:items-start justify-center items-center drop-shadow-textShadow leading-[1.2] mt-[15px] flex-col gap-2 sm:gap-0'>
-            <span className='text-primaryColor'>Iman&nbsp;&nbsp;K.&nbsp;</span>
-            <span>Bakhtiarvand</span>
+            <span className='text-primaryColor'>Leon&nbsp;&nbsp;&nbsp;</span>
+            <span>Kenyaga</span>
           </h1>
 
           <p className='font-[700] leading-[1.7] flex items-center justify-center sm:justify-start'>
@@ -49,8 +49,8 @@ const Home = () => {
           </p>
 
           <p className='text-large max-w-[520px] my-[40px] leading-[1.7] text-textColor dark:text-textColorDark font-[Comfortaa] font-[700] flex items-center text-center sm:text-left'>
-            From Iran, Esfahan. I have rich experience in web development, also
-            good at backend stuff. I love to talk with you about our unique.
+            From Nairobi, Kenya. I have rich experience in web development, also
+            good at backend stuff.
           </p>
 
           <div className='flex gap-[20px] mb-[30px] justify-center sm:justify-start'>
@@ -123,20 +123,13 @@ const Home = () => {
         {/* right side */}
         <div className='relative top-0 right-0 sm:translate-y-[-9%] rounded-full bg-primaryColor w-full max-w-[680px] lg:order-2'>
           <div className='bg-gradient-180 from-[#33cca3] via-[#00ffbb] to-[#6bff6b] z-[1] pb-[100%] rounded-full'>
-            <motion.img
-              initial={{ bottom: '50px' }}
-              whileInView={{ bottom: '-1px' }}
-              transition={transition}
-              className='absolute sm:bottom-0 sm:h-[800px] rounded-[500px] object-cover'
-              src={profileImage}
-              alt='HeroImg'
-            />
+            
           </div>
 
           <div className='uppercase absolute bottom-[-23%] left-[-5%] sm:bottom-[20%] sm:left-[2%] border-[3px] border-solid border-borderColor bg-containerColor sm:shadow-[5px_5px_rgba(0,0,0,0.2)] dark:sm:shadow-[5px_5px_rgba(0,0,0,0.3)] shadow-[5px_5px_rgba(0,0,0,0.3)] dark:shadow-[5px_5px_rgba(255,255,255,0.3)] px-[5px] xs:px-[10px] sm:px-[20px] xs:w-[165px] w-[145px] sm:w-[250px] sm:h-[82px] rounded-[82px] flex items-center z-[1]'>
             <span className='w-[50%] text-titleColor font-[700] text-center text-[30px] sm:text-[40px] flex items-center gap-2'>
               <AnimatedNumbers
-                animateToNumber='3'
+                animateToNumber='4'
                 locale='en'
                 configs={[
                   { mass: 1, tension: 220, friction: 100 },

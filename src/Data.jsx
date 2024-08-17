@@ -217,7 +217,7 @@ export const project = [
     description:
       'Landing page designed for selling cosmetic products. It typically includes a visually appealing design, easy navigation, and clear product descriptions.',
     url: 'https://digicosmetics.netlify.app',
-    sourceUrl: 'https://github.com/khakiiman/digiCosmetics',
+    sourceUrl: 'https://github.com/leonkenyaga/DigiCosmetics',
   },
 
   {
@@ -245,12 +245,12 @@ export const project = [
   {
     id: 4,
     img: golsam,
-    category: 'Blog',
-    title: 'Golsam Sepahan',
+    category: 'Landing',
+    title: 'Folio',
     description:
-      'A new design blog provides informative content related to the agricultural industry, including tips and advice on the use of fertilizers and pesticides. ',
-    url: 'https://golsamsepahan.netlify.app',
-    sourceUrl: 'https://github.com/khakiiman/golsam-sepahan',
+      'A marketing website for an online accounting firm ',
+    url: 'https://folio-rho-blond.vercel.app',
+    sourceUrl: 'https://github.com/leonkenyaga/Folio',
   },
 ];
 
