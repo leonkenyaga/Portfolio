@@ -26,26 +26,6 @@ export const links = [
     name: 'Projects',
     path: 'projects',
   },
-  {
-    name: 'Resume',
-    path: 'resume',
-  },
-  {
-    name: 'Testimonials',
-    path: 'testimonial',
-  },
-  {
-    name: 'Pricing',
-    path: 'pricing',
-  },
-  {
-    name: 'Blog',
-    path: 'blog',
-  },
-  {
-    name: 'Contact',
-    path: 'contact',
-  },
 ];
 
 export const service = [
@@ -235,11 +215,11 @@ export const project = [
     id: 3,
     img: appleStore,
     category: 'Ecommerce',
-    title: 'New Apple Store',
+    title: 'Atuscker',
     description:
-      'The new Apple Store landing page is a web page designed for showcasing and promoting Apple products, services, and features.',
-    url: 'https://newapplestore.netlify.app/',
-    sourceUrl: 'https://github.com/khakiiman/applestore',
+      'An online jewelry store integrated with whatsapp to buy jewelry. The website also had an content admin functionality and is built with django in the backend and postgresql for the database',
+    url: 'https://www.atuscker.com',
+    sourceUrl: 'https://github.com/leonkenyaga/Atuscker',
   },
 
   {
